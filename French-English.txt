@@ -1,0 +1,16 @@
+15
+le,the
+meduse,jellyfish
+garcon,boy
+danse,dances
+avec,with
+paresseux,lazy
+puante,smelly
+chien,dog
+famille,family
+maison,house
+frere,brother
+soeur,sister
+aliments,food
+fleur,flower
+dans,in
